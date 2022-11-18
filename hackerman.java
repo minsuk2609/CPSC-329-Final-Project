@@ -214,6 +214,4 @@ public class hackerman{
         return false;
     }
 
-//Changes to see if connected.
-
 }
