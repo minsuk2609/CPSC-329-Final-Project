@@ -1,0 +1,27 @@
+level 1: hacking into my moms computer just for fun, her passwords are usually just a bunch of numbers. 
+
+level 2: hacking into my brothers computer, his password is likely a very common one
+
+level 3: hacking into teachers computer to see test questions, the teacher is a huge fan of superheros, and 
+probably smart enough to add a number at the end. 
+
+level 4: hacking into an online video game to increase your characters level. You have found the login
+username of an employee, but need to guess the password. The emplyees name is Jared, his password will likely 
+have both letters and numbers but be related to his name. 
+
+level 5: hacking into your univeristy database to change your grade. password will have both upper and lower case
+letters and numbers
+
+level 6: hacking into twitters servers. This password will have upper and lower case letters, numbers, and symbols
+
+level 7: hacking into your bank to give yourself more money. This will be a randomized string of characters
+of length 8
+
+level 8: hacking into the prime ministers computer. This will be a randomized string of characters
+of length 10
+
+level 9: hacking into an FBI database. This will be a randomized string of characters
+of length 12
+
+level 10: hacking into the illuminati. This will be a randomized string of characters
+of length 16
